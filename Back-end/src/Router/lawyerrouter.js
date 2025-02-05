@@ -1,6 +1,6 @@
 const { Router } = require ( 'express');
 const { default: run } = require('../gemini/geminlaw');
-// import run from '../gemini/geminlaw';
+
 
 
 const lawyerrouter = Router();
